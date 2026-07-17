@@ -13,24 +13,72 @@
     {
       "heading": "Wenkbrauwen (online)",
       "items": [
-        { "title": "Online Ombré Powder Brows", "text": "De complete Powder Brows techniek in stap-voor-stap video's.", "image": "", "url": "/contact", "linkLabel": "Meer info" },
-        { "title": "Online Combi Brows", "text": "Leer de combinatietechniek volledig online.", "image": "", "url": "/contact", "linkLabel": "Meer info" },
-        { "title": "Online Powder Brows Masterclass", "text": "Verdiep je techniek naar professioneel niveau.", "image": "", "url": "/contact", "linkLabel": "Meer info" }
+        {
+          "title": "Online Ombré Powder Brows",
+          "text": "De complete Powder Brows techniek in stap-voor-stap video's.",
+          "image": "/media/Ombre-Powder-Brows-cursus.webp",
+          "url": "/contact",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Online Combi Brows",
+          "text": "Leer de combinatietechniek volledig online.",
+          "image": "/media/Online-Combi-Brows-Opleiding-1024x1024.webp",
+          "url": "/contact",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Online Powder Brows Masterclass",
+          "text": "Verdiep je techniek naar professioneel niveau.",
+          "image": "/media/Lip-Pigmentatie-IZZI-Beauty.webp",
+          "url": "/contact",
+          "linkLabel": "Meer info"
+        }
       ]
     },
     {
       "heading": "Lippen (online)",
       "items": [
-        { "title": "Online Lip Blush", "text": "De basis van Lip Blush, volledig online te volgen.", "image": "", "url": "/contact", "linkLabel": "Meer info" },
-        { "title": "Online Lip Blush Masterclass", "text": "Geavanceerde lip-technieken en kleurtheorie.", "image": "", "url": "/contact", "linkLabel": "Meer info" }
+        {
+          "title": "Online Lip Blush",
+          "text": "De basis van Lip Blush, volledig online te volgen.",
+          "image": "/media/image00016-2-976x1024.jpeg",
+          "url": "/contact",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Online Lip Blush Masterclass",
+          "text": "Geavanceerde lip-technieken en kleurtheorie.",
+          "image": "/media/Powder-Brows-Lip-Blush-Opleiding.webp",
+          "url": "/contact",
+          "linkLabel": "Meer info"
+        }
       ]
     },
     {
       "heading": "Overige online trainingen",
       "items": [
-        { "title": "Online Faux Freckles", "text": "Leer sproetjes plaatsen in je eigen tempo.", "image": "", "url": "/contact", "linkLabel": "Meer info" },
-        { "title": "Online Kleurcorrectie", "text": "Beheers kleurcorrectie van PMU.", "image": "", "url": "/contact", "linkLabel": "Meer info" },
-        { "title": "Online Naaldentraining", "text": "Leer alles over naalden en toepassingen.", "image": "", "url": "/contact", "linkLabel": "Meer info" }
+        {
+          "title": "Online Faux Freckles",
+          "text": "Leer sproetjes plaatsen in je eigen tempo.",
+          "image": "/media/6-819x1024.jpg",
+          "url": "/contact",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Online Kleurcorrectie",
+          "text": "Beheers kleurcorrectie van PMU.",
+          "image": "/media/how-to-correct-red-and-grey-brow-1024x576.jpg",
+          "url": "/contact",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Online Naaldentraining",
+          "text": "Leer alles over naalden en toepassingen.",
+          "image": "/media/210419353_359757878879843_1469102247957177577_n-1-1024x1024.jpg",
+          "url": "/contact",
+          "linkLabel": "Meer info"
+        }
       ]
     }
   ],
