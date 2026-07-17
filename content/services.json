@@ -145,6 +145,15 @@
         { "q": "Hoe onderhoud ik mijn Lip Blush voor de beste resultaten?", "a": "Gebruik dagelijks een lippenbalsem met SPF, vermijd agressieve scrubs of exfolianten op je lippen en boek 1 tot 1,5 jaar na de eerste behandeling een touch-up om de kleur fris te houden." }
       ]
     },
+    "team": {
+      "title": "Ons team van Lip Blush specialisten",
+      "text": "Jouw behandeling is in vertrouwde handen. Maak kennis met de gecertificeerde specialisten die jouw Lip Blush behandeling verzorgen.",
+      "members": [
+        { "name": "Specialist 1", "role": "PMU & Lip Blush specialist", "text": "Met jarenlange ervaring in permanente make-up zorgt zij voor een natuurlijk en symmetrisch resultaat dat perfect bij jouw lippen past.", "image": "" },
+        { "name": "Specialist 2", "role": "PMU & Lip Blush specialist", "text": "Gespecialiseerd in kleurbepaling en pigmentatie, met oog voor detail en een persoonlijke benadering tijdens elke behandeling.", "image": "" },
+        { "name": "Specialist 3", "role": "PMU & Lip Blush specialist", "text": "Begeleidt je van intake tot nazorg en zorgt ervoor dat jij je volledig op je gemak voelt tijdens je Lip Blush behandeling.", "image": "" }
+      ]
+    },
     "aside": {
       "factsTitle": "In het kort",
       "facts": [

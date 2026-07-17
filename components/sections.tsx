@@ -313,6 +313,26 @@ export function DetailPage({ data }: { data: DetailContent }) {
                   <Steps title={data.steps.title} items={data.steps.items} />
                 </div>
               )}
+              {data.team && data.team.members.length > 0 && (
+                <div style={{ marginTop: 44 }}>
+                  <h2 style={{ marginBottom: 12 }}>{data.team.title}</h2>
+                  {data.team.text && <p>{data.team.text}</p>}
+                  <div className="grid-3" style={{ marginTop: 20 }}>
+                    {data.team.members.map((m) => (
+                      <article className="card" key={m.name}>
+                        <div className="card-media">
+                          <Media src={m.image} alt={m.name} shape="portrait" label={m.name} />
+                        </div>
+                        <div className="card-body">
+                          <h3>{m.name}</h3>
+                          {m.role && <div className="card-meta"><span>{m.role}</span></div>}
+                          <p>{m.text}</p>
+                        </div>
+                      </article>
+                    ))}
+                  </div>
+                </div>
+              )}
               {data.faq && data.faq.items.length > 0 && (
                 <div style={{ marginTop: 44 }}>
                   <FaqList title={data.faq.title} items={data.faq.items} />
