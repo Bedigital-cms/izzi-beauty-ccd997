@@ -12,7 +12,7 @@
       "Wat begon als een passie voor natuurlijke schoonheid groeide uit tot een gerenommeerde studio en academy voor permanente make-up.",
       "Bij IZZI Beauty draait alles om kwaliteit, hygiëne en een natuurlijk resultaat dat bij jou past. Onze specialisten zijn gecertificeerd en volgen doorlopend de nieuwste ontwikkelingen in het vak."
     ],
-    "image": "",
+    "image": "/media/Over-IZZI-Beauty.jpg",
     "badgeNum": "10+",
     "badgeLabel": "Jaar ervaring"
   },
@@ -21,17 +21,45 @@
     "title": "Waar wij voor staan",
     "text": "Deze principes staan centraal in alles wat we doen.",
     "items": [
-      { "icon": "sparkle", "title": "Natuurlijk resultaat", "text": "We werken subtiel en op maat, zodat het resultaat altijd natuurlijk oogt." },
-      { "icon": "shield", "title": "Hygiëne & veiligheid", "text": "We werken volgens de hoogste hygiënestandaarden en zijn GGD-gecertificeerd." },
-      { "icon": "award", "title": "Vakmanschap", "text": "Onze specialisten zijn gecertificeerd en blijven zich continu ontwikkelen." },
-      { "icon": "hands", "title": "Persoonlijke aandacht", "text": "Elke behandeling start met een uitgebreid, persoonlijk intakegesprek." }
+      {
+        "icon": "sparkle",
+        "title": "Natuurlijk resultaat",
+        "text": "We werken subtiel en op maat, zodat het resultaat altijd natuurlijk oogt."
+      },
+      {
+        "icon": "shield",
+        "title": "Hygiëne & veiligheid",
+        "text": "We werken volgens de hoogste hygiënestandaarden en zijn GGD-gecertificeerd."
+      },
+      {
+        "icon": "award",
+        "title": "Vakmanschap",
+        "text": "Onze specialisten zijn gecertificeerd en blijven zich continu ontwikkelen."
+      },
+      {
+        "icon": "hands",
+        "title": "Persoonlijke aandacht",
+        "text": "Elke behandeling start met een uitgebreid, persoonlijk intakegesprek."
+      }
     ]
   },
   "stats": [
-    { "num": "10+", "lbl": "Jaar ervaring" },
-    { "num": "5000+", "lbl": "Tevreden klanten" },
-    { "num": "500+", "lbl": "Opgeleide artiesten" },
-    { "num": "4.9", "lbl": "Gemiddelde score" }
+    {
+      "num": "10+",
+      "lbl": "Jaar ervaring"
+    },
+    {
+      "num": "5000+",
+      "lbl": "Tevreden klanten"
+    },
+    {
+      "num": "500+",
+      "lbl": "Opgeleide artiesten"
+    },
+    {
+      "num": "4.9",
+      "lbl": "Gemiddelde score"
+    }
   ],
   "founder": {
     "eyebrow": "De oprichter",
@@ -40,7 +68,7 @@
       "Met jarenlange ervaring en een tomeloze passie voor het vak staat ons team dagelijks klaar om jou het beste resultaat te geven.",
       "Naast behandelingen delen we onze kennis graag met een nieuwe generatie PMU-artiesten via onze academy."
     ],
-    "image": "",
+    "image": "/media/IZZI-Beauty-Amsterdam.jpg",
     "name": "IZZI Beauty Team",
     "role": "Permanente make-up specialisten"
   },
