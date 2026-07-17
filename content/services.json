@@ -32,27 +32,60 @@
     "steps": {
       "title": "Zo verloopt de behandeling",
       "items": [
-        { "title": "Intake & vormbepaling", "text": "We bespreken je wensen en tekenen samen de perfecte vorm en kleur voor jouw gezicht." },
-        { "title": "De behandeling", "text": "Met een fijne techniek brengen we het pigment zorgvuldig en pijnarm aan." },
-        { "title": "Nazorg", "text": "Je krijgt duidelijke nazorginstructies mee voor een optimaal genezingsproces." },
-        { "title": "Touch-up", "text": "Na 6–8 weken volgt een touch-up om het resultaat te perfectioneren." }
+        {
+          "title": "Intake & vormbepaling",
+          "text": "We bespreken je wensen en tekenen samen de perfecte vorm en kleur voor jouw gezicht."
+        },
+        {
+          "title": "De behandeling",
+          "text": "Met een fijne techniek brengen we het pigment zorgvuldig en pijnarm aan."
+        },
+        {
+          "title": "Nazorg",
+          "text": "Je krijgt duidelijke nazorginstructies mee voor een optimaal genezingsproces."
+        },
+        {
+          "title": "Touch-up",
+          "text": "Na 6–8 weken volgt een touch-up om het resultaat te perfectioneren."
+        }
       ]
     },
     "faq": {
       "title": "Veelgestelde vragen",
       "items": [
-        { "q": "Doet de behandeling pijn?", "a": "We werken met een verdovende crème, waardoor de meeste klanten de behandeling als goed te verdragen ervaren." },
-        { "q": "Hoe lang blijven Powder Brows mooi?", "a": "Gemiddeld 1 tot 3 jaar, afhankelijk van je huidtype en verzorging. Een jaarlijkse touch-up houdt het resultaat fris." },
-        { "q": "Hoe lang duurt het genezingsproces?", "a": "De huid geneest in ongeveer 4 tot 6 weken. In die periode vervaagt de kleur licht naar het uiteindelijke, natuurlijke resultaat." }
+        {
+          "q": "Doet de behandeling pijn?",
+          "a": "We werken met een verdovende crème, waardoor de meeste klanten de behandeling als goed te verdragen ervaren."
+        },
+        {
+          "q": "Hoe lang blijven Powder Brows mooi?",
+          "a": "Gemiddeld 1 tot 3 jaar, afhankelijk van je huidtype en verzorging. Een jaarlijkse touch-up houdt het resultaat fris."
+        },
+        {
+          "q": "Hoe lang duurt het genezingsproces?",
+          "a": "De huid geneest in ongeveer 4 tot 6 weken. In die periode vervaagt de kleur licht naar het uiteindelijke, natuurlijke resultaat."
+        }
       ]
     },
     "aside": {
       "factsTitle": "In het kort",
       "facts": [
-        { "k": "Duur", "v": "± 2,5 uur" },
-        { "k": "Houdbaarheid", "v": "1–3 jaar" },
-        { "k": "Touch-up", "v": "Na 6–8 weken" },
-        { "k": "Verdoving", "v": "Ja" }
+        {
+          "k": "Duur",
+          "v": "± 2,5 uur"
+        },
+        {
+          "k": "Houdbaarheid",
+          "v": "1–3 jaar"
+        },
+        {
+          "k": "Touch-up",
+          "v": "Na 6–8 weken"
+        },
+        {
+          "k": "Verdoving",
+          "v": "Ja"
+        }
       ],
       "ctaTitle": "Klaar voor perfecte brows?",
       "ctaText": "Plan je intakegesprek en ontdek wat Ombré Powder Brows voor jou kunnen betekenen.",
@@ -129,38 +162,92 @@
     "steps": {
       "title": "Hoe verloopt de PMU behandeling?",
       "items": [
-        { "title": "Intake", "text": "We beginnen met een intakegesprek waarin we jouw wensen, verwachtingen en de haalbare mogelijkheden voor jouw lippen bespreken. Zo begin je volledig geïnformeerd aan de behandeling." },
-        { "title": "Pigment kiezen", "text": "Samen bepalen we de juiste pigmentkleur door verschillende tinten op je huid te plaatsen, zodat je ziet welke het beste bij jou past. Uiteraard adviseren we je daarbij." },
-        { "title": "Contour tekenen", "text": "De lipcontour wordt zorgvuldig geschetst, zodat je een duidelijk beeld krijgt van het eindresultaat. Pas als je volledig tevreden bent met kleur en contour gaan we verder." },
-        { "title": "De behandeling", "text": "Het pigment wordt met een ultrafijne naald in de bovenste huidlaag aangebracht, nauwkeurig en in dunne lagen, voor een natuurlijk en egaal resultaat." }
+        {
+          "title": "Intake",
+          "text": "We beginnen met een intakegesprek waarin we jouw wensen, verwachtingen en de haalbare mogelijkheden voor jouw lippen bespreken. Zo begin je volledig geïnformeerd aan de behandeling."
+        },
+        {
+          "title": "Pigment kiezen",
+          "text": "Samen bepalen we de juiste pigmentkleur door verschillende tinten op je huid te plaatsen, zodat je ziet welke het beste bij jou past. Uiteraard adviseren we je daarbij."
+        },
+        {
+          "title": "Contour tekenen",
+          "text": "De lipcontour wordt zorgvuldig geschetst, zodat je een duidelijk beeld krijgt van het eindresultaat. Pas als je volledig tevreden bent met kleur en contour gaan we verder."
+        },
+        {
+          "title": "De behandeling",
+          "text": "Het pigment wordt met een ultrafijne naald in de bovenste huidlaag aangebracht, nauwkeurig en in dunne lagen, voor een natuurlijk en egaal resultaat."
+        }
       ]
     },
     "faq": {
       "title": "Veelgestelde vragen over Lip Blush",
       "items": [
-        { "q": "Doet een Lip Blush behandeling pijn?", "a": "Nee, wij kunnen deze behandeling pijnloos uitvoeren." },
-        { "q": "Kan deze behandeling op lipfillers worden gedaan?", "a": "Ja, Lip Blush kan perfect in combinatie met lipfillers. Er moet wel minimaal 2 weken tussen beide behandelingen zitten." },
-        { "q": "Hoe bereid ik me voor op deze PMU-behandeling?", "a": "Om je lippen in goede conditie te brengen, raden we aan om voldoende water te drinken en je lippen een week van tevoren regelmatig te scrubben en te hydrateren." },
-        { "q": "Kan ik direct na de behandeling eten en drinken?", "a": "Direct na de behandeling wordt eten en drinken afgeraden, omdat je huid kwetsbaar is. Gebruik bijvoorbeeld een rietje en vermijd pittig, zuur of zout eten om irritatie te voorkomen." },
-        { "q": "Hoe onderhoud ik mijn Lip Blush voor de beste resultaten?", "a": "Gebruik dagelijks een lippenbalsem met SPF, vermijd agressieve scrubs of exfolianten op je lippen en boek 1 tot 1,5 jaar na de eerste behandeling een touch-up om de kleur fris te houden." }
+        {
+          "q": "Doet een Lip Blush behandeling pijn?",
+          "a": "Nee, wij kunnen deze behandeling pijnloos uitvoeren."
+        },
+        {
+          "q": "Kan deze behandeling op lipfillers worden gedaan?",
+          "a": "Ja, Lip Blush kan perfect in combinatie met lipfillers. Er moet wel minimaal 2 weken tussen beide behandelingen zitten."
+        },
+        {
+          "q": "Hoe bereid ik me voor op deze PMU-behandeling?",
+          "a": "Om je lippen in goede conditie te brengen, raden we aan om voldoende water te drinken en je lippen een week van tevoren regelmatig te scrubben en te hydrateren."
+        },
+        {
+          "q": "Kan ik direct na de behandeling eten en drinken?",
+          "a": "Direct na de behandeling wordt eten en drinken afgeraden, omdat je huid kwetsbaar is. Gebruik bijvoorbeeld een rietje en vermijd pittig, zuur of zout eten om irritatie te voorkomen."
+        },
+        {
+          "q": "Hoe onderhoud ik mijn Lip Blush voor de beste resultaten?",
+          "a": "Gebruik dagelijks een lippenbalsem met SPF, vermijd agressieve scrubs of exfolianten op je lippen en boek 1 tot 1,5 jaar na de eerste behandeling een touch-up om de kleur fris te houden."
+        }
       ]
     },
     "team": {
       "title": "Ons team van Lip Blush specialisten",
       "text": "Jouw behandeling is in vertrouwde handen. Maak kennis met de gecertificeerde specialisten die jouw Lip Blush behandeling verzorgen.",
       "members": [
-        { "name": "Specialist 1", "role": "PMU & Lip Blush specialist", "text": "Met jarenlange ervaring in permanente make-up zorgt zij voor een natuurlijk en symmetrisch resultaat dat perfect bij jouw lippen past.", "image": "" },
-        { "name": "Specialist 2", "role": "PMU & Lip Blush specialist", "text": "Gespecialiseerd in kleurbepaling en pigmentatie, met oog voor detail en een persoonlijke benadering tijdens elke behandeling.", "image": "" },
-        { "name": "Specialist 3", "role": "PMU & Lip Blush specialist", "text": "Begeleidt je van intake tot nazorg en zorgt ervoor dat jij je volledig op je gemak voelt tijdens je Lip Blush behandeling.", "image": "" }
+        {
+          "name": "Specialist 1",
+          "role": "PMU & Lip Blush specialist",
+          "text": "Met jarenlange ervaring in permanente make-up zorgt zij voor een natuurlijk en symmetrisch resultaat dat perfect bij jouw lippen past.",
+          "image": "/media/Afspraak-maken-bij-IZZI-Beauty-PMU-Salon-Amsterdam.webp"
+        },
+        {
+          "name": "Specialist 2",
+          "role": "PMU & Lip Blush specialist",
+          "text": "Gespecialiseerd in kleurbepaling en pigmentatie, met oog voor detail en een persoonlijke benadering tijdens elke behandeling.",
+          "image": "/media/Isabella-Levels-IZZI-Beauty-PMU-Salon-Academy.webp"
+        },
+        {
+          "name": "Specialist 3",
+          "role": "PMU & Lip Blush specialist",
+          "text": "Begeleidt je van intake tot nazorg en zorgt ervoor dat jij je volledig op je gemak voelt tijdens je Lip Blush behandeling.",
+          "image": "/media/IZZI-Beauty-Isabella-Levels-PMU-Expert.webp"
+        }
       ]
     },
     "aside": {
       "factsTitle": "In het kort",
       "facts": [
-        { "k": "Houdbaarheid", "v": "4–5 jaar" },
-        { "k": "Touch-up", "v": "Na 1–1,5 jaar" },
-        { "k": "Herstel", "v": "Binnen 7 dagen" },
-        { "k": "Verdoving", "v": "Pijnloos" }
+        {
+          "k": "Houdbaarheid",
+          "v": "4–5 jaar"
+        },
+        {
+          "k": "Touch-up",
+          "v": "Na 1–1,5 jaar"
+        },
+        {
+          "k": "Herstel",
+          "v": "Binnen 7 dagen"
+        },
+        {
+          "k": "Verdoving",
+          "v": "Pijnloos"
+        }
       ],
       "ctaTitle": "Klaar voor stralende lippen?",
       "ctaText": "Plan je intakegesprek en ontdek wat een Lip Blush behandeling voor jou kan betekenen.",
