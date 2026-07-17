@@ -1,3 +1,5 @@
 ﻿{
-  "redirects": []
+  "redirects": [
+    { "source": "/galerij", "destination": "/portfolio", "permanent": true }
+  ]
 }
