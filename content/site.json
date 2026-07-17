@@ -187,6 +187,10 @@
         "url": "/portfolio"
       },
       {
+        "label": "Galerij",
+        "url": "/galerij"
+      },
+      {
         "label": "Blog",
         "url": "/blog"
       },
