@@ -92,6 +92,8 @@ export type HubContent = {
 
 /* ---------- treatment / training detail page ---------- */
 export type DetailFact = { k: string; v: string }
+/** A team member shown in the optional `team` section of a detail page. */
+export type TeamMember = { name: string; role?: string; text: string; image: string }
 export type DetailContent = {
   hero: { eyebrow: string; title: string; text: string; breadcrumb: string }
   image: string
@@ -99,6 +101,8 @@ export type DetailContent = {
   body: { heading: string; paragraphs: string[]; checklist?: string[] }[]
   steps?: { title: string; items: Step[] }
   faq?: { title: string; items: Faq[] }
+  /** Optional "meet our team" section — rendered only when present. */
+  team?: { title: string; text?: string; members: TeamMember[] }
   aside: { factsTitle: string; facts: DetailFact[]; ctaTitle: string; ctaText: string; ctaLabel: string; ctaUrl: string }
   cta: CtaBlock
 }
