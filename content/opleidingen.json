@@ -14,31 +14,110 @@
       "heading": "Wenkbrauwen opleidingen",
       "text": "De meest gevraagde technieken, van Powder Brows tot Combi Brows.",
       "items": [
-        { "title": "All Round PMU Opleiding", "meta": "Populair", "text": "De complete beginnersopleiding met alle basistechnieken voor wenkbrauwen.", "image": "", "url": "/opleidingen/allround-pmu", "linkLabel": "Meer info" },
-        { "title": "Ombré Powder Brows", "text": "Leer de poedertechniek voor natuurlijke, gedefinieerde wenkbrauwen.", "image": "", "url": "/opleidingen/ombre-powder-brows", "linkLabel": "Meer info" },
-        { "title": "Combi Brows", "text": "Combineer hairstrokes en shading voor het meest realistische resultaat.", "image": "", "url": "/opleidingen/combi-brows", "linkLabel": "Meer info" },
-        { "title": "Powder Brows Masterclass", "text": "Verdiep je techniek en til je werk naar professioneel niveau.", "image": "", "url": "/opleidingen/ombre-masterclass", "linkLabel": "Meer info" },
-        { "title": "Powder Brows + Lip Blush", "text": "Twee gewilde technieken in één complete beginnersopleiding.", "image": "", "url": "/opleidingen/powderbrows-lipblush", "linkLabel": "Meer info" }
+        {
+          "title": "All Round PMU Opleiding",
+          "meta": "Populair",
+          "text": "De complete beginnersopleiding met alle basistechnieken voor wenkbrauwen.",
+          "image": "/media/Draadloze-PMU-Machine-1024x576.webp",
+          "url": "/opleidingen/allround-pmu",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Ombré Powder Brows",
+          "text": "Leer de poedertechniek voor natuurlijke, gedefinieerde wenkbrauwen.",
+          "image": "/media/Ombre-Powder-Brows.webp",
+          "url": "/opleidingen/ombre-powder-brows",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Combi Brows",
+          "text": "Combineer hairstrokes en shading voor het meest realistische resultaat.",
+          "image": "/media/4-819x1024.jpg",
+          "url": "/opleidingen/combi-brows",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Powder Brows Masterclass",
+          "text": "Verdiep je techniek en til je werk naar professioneel niveau.",
+          "image": "/media/Powder-Brows-Behandeling-Amsterdam-1024x1024.jpg",
+          "url": "/opleidingen/ombre-masterclass",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Powder Brows + Lip Blush",
+          "text": "Twee gewilde technieken in één complete beginnersopleiding.",
+          "image": "/media/All-Round-PMU-opleiding-Amsterdam-en-Rotterdam.webp",
+          "url": "/opleidingen/powderbrows-lipblush",
+          "linkLabel": "Meer info"
+        }
       ]
     },
     {
       "heading": "Lippen opleidingen",
       "text": "Beheers de Lip Blush techniek van begin tot masterclass.",
       "items": [
-        { "title": "Lip Blush Beginnersopleiding", "text": "Leer de basis van Lip Blush voor vollere, frissere lippen.", "image": "", "url": "/opleidingen/lip-blush", "linkLabel": "Meer info" },
-        { "title": "Lip Blush Masterclass", "text": "Perfectioneer je techniek en leer geavanceerde kleurtheorie.", "image": "", "url": "/opleidingen/lip-blush-masterclass", "linkLabel": "Meer info" }
+        {
+          "title": "Lip Blush Beginnersopleiding",
+          "text": "Leer de basis van Lip Blush voor vollere, frissere lippen.",
+          "image": "/media/Prive-Opleiding-Permanente-Make-Up-300x300.webp",
+          "url": "/opleidingen/lip-blush",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Lip Blush Masterclass",
+          "text": "Perfectioneer je techniek en leer geavanceerde kleurtheorie.",
+          "image": "/media/Online-Royal-Lips-Opleiding-510x510.webp",
+          "url": "/opleidingen/lip-blush-masterclass",
+          "linkLabel": "Meer info"
+        }
       ]
     },
     {
       "heading": "Extra opleidingen",
       "text": "Breid je vaardigheden uit met aanvullende technieken.",
       "items": [
-        { "title": "Faux Freckles", "text": "Leer natuurlijke sproetjes plaatsen voor een speelse look.", "image": "", "url": "/opleidingen/faux-freckles", "linkLabel": "Meer info" },
-        { "title": "Infralash Eyeliner", "text": "Beheers de zachte wimperverdichtingstechniek.", "image": "", "url": "/opleidingen/infralash", "linkLabel": "Meer info" },
-        { "title": "Fineline Training", "text": "Leer verfijnde fineline-technieken toepassen.", "image": "", "url": "/opleidingen/fineline-training", "linkLabel": "Meer info" },
-        { "title": "Brow Lamination Training", "text": "Voeg brow lamination toe aan je behandelaanbod.", "image": "", "url": "/opleidingen/brow-lamination", "linkLabel": "Meer info" },
-        { "title": "Lash Lift Training", "text": "Leer de populaire lash lift behandeling uitvoeren.", "image": "", "url": "/opleidingen/lash-lift", "linkLabel": "Meer info" },
-        { "title": "Laser Ontharing Opleiding", "text": "Word specialist in professionele laserontharing.", "image": "", "url": "/opleidingen/laser-ontharing", "linkLabel": "Meer info" }
+        {
+          "title": "Faux Freckles",
+          "text": "Leer natuurlijke sproetjes plaatsen voor een speelse look.",
+          "image": "/media/IZZI-Beauty-300x300.webp",
+          "url": "/opleidingen/faux-freckles",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Infralash Eyeliner",
+          "text": "Beheers de zachte wimperverdichtingstechniek.",
+          "image": "/media/Ombre-Powder-Brows.webp",
+          "url": "/opleidingen/infralash",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Fineline Training",
+          "text": "Leer verfijnde fineline-technieken toepassen.",
+          "image": "/media/image00004-2.jpeg",
+          "url": "/opleidingen/fineline-training",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Brow Lamination Training",
+          "text": "Voeg brow lamination toe aan je behandelaanbod.",
+          "image": "",
+          "url": "/opleidingen/brow-lamination",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Lash Lift Training",
+          "text": "Leer de populaire lash lift behandeling uitvoeren.",
+          "image": "",
+          "url": "/opleidingen/lash-lift",
+          "linkLabel": "Meer info"
+        },
+        {
+          "title": "Laser Ontharing Opleiding",
+          "text": "Word specialist in professionele laserontharing.",
+          "image": "",
+          "url": "/opleidingen/laser-ontharing",
+          "linkLabel": "Meer info"
+        }
       ]
     }
   ],
