@@ -5,6 +5,7 @@
     { "file": "site.json", "label": "Site (logo / navigatie / footer / locaties)", "path": "/" },
     { "file": "behandelingen.json", "label": "Behandelingen (overzicht)", "path": "/behandelingen" },
     { "file": "services.json", "label": "Behandelingen (detailpagina's)", "path": "/behandelingen", "itemsArePages": true, "itemBase": "/behandelingen" },
+    { "file": "touch-up-powder-brows.json", "label": "Touch-up Powder Brows", "path": "/touch-up-powder-brows" },
     { "file": "opleidingen.json", "label": "Opleidingen (overzicht)", "path": "/opleidingen" },
     { "file": "trainings-detail.json", "label": "Opleidingen (detailpagina's)", "path": "/opleidingen", "itemsArePages": true, "itemBase": "/opleidingen" },
     { "file": "online-trainingen.json", "label": "Online Trainingen", "path": "/online-trainingen" },

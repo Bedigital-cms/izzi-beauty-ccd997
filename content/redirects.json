@@ -1,5 +1,6 @@
 ﻿{
   "redirects": [
-    { "source": "/galerij", "destination": "/portfolio", "permanent": true }
+    { "source": "/galerij", "destination": "/portfolio", "permanent": true },
+    { "source": "/behandelingen/touch-up-powder-brows", "destination": "/touch-up-powder-brows", "permanent": true }
   ]
 }
