@@ -263,5 +263,160 @@
       "secondaryLabel": "Bekijk alle behandelingen",
       "secondaryUrl": "/behandelingen"
     }
+  },
+  "touch-up-powder-brows": {
+    "hero": {
+      "eyebrow": "Wenkbrauwen",
+      "title": "Touch-up Powder Brows",
+      "text": "Houd je PMU-wenkbrauwen prachtig met een touch-up behandeling! Frisse kleur, versterkte contouren en een egaal poeder-effect — weer 1,5 tot 2 jaar stralende wenkbrauwen.",
+      "breadcrumb": "Touch-up Powder Brows"
+    },
+    "image": "",
+    "intro": "Ombré Powder Brows is een van de meest populaire semi-permanente make-up behandelingen. Met deze behandeling creëren we natuurlijke en volle wenkbrauwen. De mooiste wenkbrauwen hebben na verloop van tijd ook onderhoud nodig — en dat is precies het moment waarop een touch-up behandeling uitkomst biedt.",
+    "body": [
+      {
+        "heading": "Wat is een Touch-up behandeling voor Powder Brows?",
+        "paragraphs": [
+          "Een touch-up behandeling is een essentiële stap om de levensduur van je powder brows te verlengen. Hoewel de eerste PMU-behandeling zorgt voor een prachtig resultaat, vervagen pigmenten na verloop van tijd door natuurlijke huidvernieuwing, blootstelling aan de zon en huidtype.",
+          "Bij een touch-up worden lichte plekken bijgewerkt, de contouren versterkt en de kleur opgefrist. Het resultaat? Je wenkbrauwen zien er weer stralend uit, alsof ze net zijn gedaan. Deze behandeling is minder intensief dan de originele powder brows behandeling en duurt doorgaans 60 tot 90 minuten."
+        ]
+      },
+      {
+        "heading": "Voor wie is een Touch-up geschikt?",
+        "paragraphs": [
+          "Een touch-up is bedoeld voor iedereen die zijn bestaande powder brows wil opfrissen:"
+        ],
+        "checklist": [
+          "Voor iedereen die al powder brows heeft laten zetten bij IZZI Beauty",
+          "Als het 1,5 tot 2 jaar geleden is dat je jouw wenkbrauwen hebt laten behandelen",
+          "Wanneer je merkt dat de kleur of vorm van je wenkbrauwen is vervaagd"
+        ]
+      },
+      {
+        "heading": "Voordelen van een Touch-up",
+        "paragraphs": [
+          "Een touch-up is een korte, comfortabele behandeling met blijvend resultaat:"
+        ],
+        "checklist": [
+          "Geschikt voor elk type huid",
+          "Een touch-up is pijnloos",
+          "Verleng de levensduur van je brows",
+          "Na touch-up weer 1,5 tot 2 jaar prachtige wenkbrauwen",
+          "Nieuwe, frisse kleur en versterking van het poeder-effect"
+        ]
+      },
+      {
+        "heading": "Nazorg: hoe houd je je Powder Brows lang mooi?",
+        "paragraphs": [
+          "Goede nazorg is essentieel voor een langdurig resultaat. Hier zijn enkele tips om je wenkbrauwen na de touch-up te verzorgen:",
+          "Na ongeveer een week is het definitieve resultaat zichtbaar. Het pigment wordt voller en de kleur krijgt zijn natuurlijke tint."
+        ],
+        "checklist": [
+          "Vermijd zonlicht: directe blootstelling aan UV-stralen kan het pigment doen vervagen — gebruik een SPF-crème om je wenkbrauwen te beschermen",
+          "Geen make-up: breng geen make-up aan op de wenkbrauwen gedurende de eerste week na de behandeling",
+          "Niet krabben: tijdens het genezingsproces kan er een lichte korstvorming optreden — laat deze vanzelf verdwijnen om pigmentverlies te voorkomen",
+          "Vermijd intensieve sporten: zweet kan irritatie veroorzaken en het herstelproces vertragen"
+        ]
+      },
+      {
+        "heading": "Kies voor IZZI Beauty in Amsterdam",
+        "paragraphs": [
+          "Bij IZZI Beauty kies je voor de hoogste standaard in permanente make-up. Onze touch-up behandelingen worden uitgevoerd door ervaren specialisten die tot in de details aandacht besteden aan jouw wensen. Wij staan bekend om:",
+          "Onze focus op kwaliteit en klanttevredenheid maakt IZZI Beauty dé keuze voor perfecte powder brows. Kies voor ons, en ervaar zelf het verschil!"
+        ],
+        "checklist": [
+          "Hoogwaardige pigmenten: we werken uitsluitend met veilige, huidvriendelijke pigmenten van de beste kwaliteit",
+          "Hygiëne en moderne technieken: onze salon is volledig ingericht met geavanceerde apparatuur en voldoet aan de strengste hygiënevoorschriften",
+          "Persoonlijke aanpak: we luisteren naar jouw wensen en stemmen de behandeling perfect af op jouw gezichtsvorm, huidtype en persoonlijke stijl"
+        ]
+      },
+      {
+        "heading": "Wat kost een Touch-up behandeling voor Powder Brows?",
+        "paragraphs": [
+          "Om de kwaliteit van onze behandelingen te waarborgen en het beste resultaat te garanderen, bieden wij touch-up behandelingen alleen aan klanten die hun eerste behandeling ook bij ons hebben laten uitvoeren. Zo kunnen we 100% instaan voor de consistentie en kwaliteit van het werk dat we leveren.",
+          "Heb je elders een PMU-behandeling gehad? Neem contact met ons op voor een gratis consult, zodat we jouw individuele situatie kunnen bespreken en samen bekijken wat mogelijk is."
+        ],
+        "checklist": [
+          "Binnen 1 jaar na je eerste behandeling: €175",
+          "Binnen 2 jaar na je eerste behandeling: €250"
+        ]
+      }
+    ],
+    "steps": {
+      "title": "Hoe verloopt een Touch-up behandeling?",
+      "items": [
+        {
+          "title": "Voorbereiding van de huid",
+          "text": "Je wenkbrauwen worden grondig gereinigd en ontsmet om irritatie te voorkomen."
+        },
+        {
+          "title": "Bijwerken van pigmenten",
+          "text": "Onze brow specialist brengt zorgvuldig pigment aan om lichte plekken te bedekken en de contouren strakker te maken."
+        },
+        {
+          "title": "Nazorg",
+          "text": "Na de behandeling wordt een speciale zalf aangebracht om de huid te kalmeren en te hydrateren. De behandeling is vrijwel pijnloos, omdat de naald slechts oppervlakkig in de huid werkt."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Veelgestelde vragen over Touch-up Powder Brows",
+      "items": [
+        {
+          "q": "Is een touch-up pijnlijk?",
+          "a": "Nee, de behandeling is vrijwel pijnloos. De naald dringt niet diep door in de huid, waardoor je slechts een lichte prikkeling voelt."
+        },
+        {
+          "q": "Hoe vaak heb ik een touch-up nodig?",
+          "a": "Bij elke Ombré Powder Brows behandeling bij IZZI Beauty krijg je na 6 tot 8 weken de eerste nabehandeling volledig gratis. Daarna kun je 1,5 tot 2 jaar genieten van prachtige wenkbrauwen. Na ongeveer 2 jaar raden wij een nieuwe touch-up aan om de kleur op te frissen en het poeder-effect te versterken. De tweede touch-up is altijd minder intensief dan de eerste."
+        },
+        {
+          "q": "Hoelang duurt een touch-up behandeling?",
+          "a": "De behandeling duurt meestal tussen de 60 en 90 minuten, afhankelijk van de conditie van je wenkbrauwen."
+        },
+        {
+          "q": "Hoe verloopt de genezing van powder brows na een touch-up?",
+          "a": "Na een touch-up volgt een kort genezingsproces, vergelijkbaar met dat van de eerste behandeling. De eerste dagen kunnen je wenkbrauwen wat donkerder lijken en kan er lichte roodheid of zwelling optreden; dit trekt vanzelf weg. In de week daarna kunnen kleine korstjes ontstaan die je niet mag verwijderen — laat deze natuurlijk genezen. Na ongeveer 7 tot 10 dagen zijn je wenkbrauwen volledig hersteld en zie je het uiteindelijke resultaat."
+        },
+        {
+          "q": "Kan ik een touch-up krijgen als ik mijn eerste behandeling elders heb gedaan?",
+          "a": "In principe bieden we touch-ups alleen aan onze eigen klanten aan, om de kwaliteit en consistentie van ons werk te waarborgen. Heb je jouw permanente make-up elders laten uitvoeren? Neem contact met ons op voor een consult. We beoordelen jouw situatie en adviseren je over wat mogelijk is."
+        }
+      ]
+    },
+    "aside": {
+      "factsTitle": "In het kort",
+      "facts": [
+        {
+          "k": "Duur",
+          "v": "60–90 minuten"
+        },
+        {
+          "k": "Houdbaarheid",
+          "v": "1,5–2 jaar"
+        },
+        {
+          "k": "Verdoving",
+          "v": "Pijnloos"
+        },
+        {
+          "k": "Tarief",
+          "v": "Vanaf €175"
+        }
+      ],
+      "ctaTitle": "Klaar om je brows op te frissen?",
+      "ctaText": "Plan je touch-up behandeling en houd je Powder Brows jarenlang mooi.",
+      "ctaLabel": "Afspraak maken",
+      "ctaUrl": "/contact"
+    },
+    "cta": {
+      "script": "Frisse, stralende wenkbrauwen",
+      "title": "Boek je Powder Brows touch-up",
+      "text": "Maak vandaag nog vrijblijvend een afspraak in onze salon en blaas je wenkbrauwen nieuw leven in.",
+      "primaryLabel": "Afspraak maken",
+      "primaryUrl": "/contact",
+      "secondaryLabel": "Bekijk alle behandelingen",
+      "secondaryUrl": "/behandelingen"
+    }
   }
 }
